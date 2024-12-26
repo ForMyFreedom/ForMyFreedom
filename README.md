@@ -1,3 +1,3 @@
-> "Uma pessoa jamais fica velha demais para ouvir histórias, Bill. Homem e menino, menina e mulher, jamais velhos demais. Nós vivemos para elas."
+> "A person’s never too old for stories. Man and boy, girl and woman, we live for them."
 
-*Roland, Torre Negra*
+*Roland, Dark Tower*
