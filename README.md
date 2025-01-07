@@ -40,3 +40,7 @@ This GitHub repository is primarily focused on game and ludic development projec
 #### **[CSharp-Simplex](https://github.com/ForMyFreedom/CSharp-Simplex)**
 - **Description**: A tool for automatic simplex resolution.
 - **Technologies**: C#/.NET
+
+#### **[Sample Consul Project](https://github.com/ForMyFreedom/SampleConsulProject)**
+- **Description**: A sample project for falt tolerance and load balancing.
+- **Technologies**: Python
